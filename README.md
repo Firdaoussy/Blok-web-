@@ -36,9 +36,9 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Ik ga de website van vice.com nabootsen. Ik ga de homepagine en de detail pagina uitwerken.
+Ik ga de website van aseop.com nabootsen. Ik ga de homepagine en de detail pagina uitwerken.
 
-https://www.vice.com/nl
+https://www.aesop.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 homepage 
